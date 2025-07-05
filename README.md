@@ -122,8 +122,6 @@
 *`The email is not genuine`*
 ---
 
-## 🧾 Report Summary
-
 ### 📄 Email Analysis Report
 
 **Subject:** Reset your password urgently
